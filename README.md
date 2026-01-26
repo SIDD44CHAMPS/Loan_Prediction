@@ -134,7 +134,7 @@ Predictions are based on historical data and should not be used as the sole deci
 👩‍💻 Author
 
 Meera S
-📌 Computer Science Student
+📌 Information Technology (B.Tech) Student 
 📌 Interested in ML, Web Development & AI Projects
 
 ⭐ Support
